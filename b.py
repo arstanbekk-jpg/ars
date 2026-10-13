@@ -6,3 +6,8 @@ if a == c or b == d:
     print('YES')
 else:
     print('NO')
+
+
+
+
+
